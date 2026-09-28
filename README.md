@@ -1,2 +1,2 @@
 # shahilemma
-We will release the dataset and code on GitHub upon acceptance.
+We will release the dataset and code soon.
